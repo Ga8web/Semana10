@@ -1,0 +1,3 @@
+Como ciudadano quiero enviar una incidencia para que la revisen y me den solución.
+Como administrador quiero editar información del sistema para mantener todo actualizado.
+Como estudiante necesito consultar mis datos para ver mi información académica.

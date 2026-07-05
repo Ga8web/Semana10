@@ -1,0 +1,16 @@
+¿Qué 2 tareas del backlog harías primero?
+
+Lo primero que haría sería registrar la incidencia del ciudadano y luego editar la información del sistema.
+
+¿Por qué son las más importantes?
+
+Son importantes porque la primera permite que el ciudadano reporte una incidencia para darle solución, y la segunda ayuda a mantener la información del sistema actualizada.   
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+Para mí, una tarea está terminada cuando:
+
+Funciona correctamente.
+No tiene errores.
+Está guardada en Git.
+Está subida correctamente a GitHub.

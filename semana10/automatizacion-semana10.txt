@@ -1,0 +1,7 @@
+Evento: Ciudadano envía una incidencia en el sistema.
+
+Acción: Enviar un mensaje automático a Telegram mediante n8n.
+
+Mensaje: Se registró una nueva incidencia. Por favor, revísela en el sistema.
+
+Información que no debe enviarse: No se deben enviar nombres completos, números de documento de identidad, direcciones, correos electrónicos, teléfonos, contraseñas ni otros datos personales.
